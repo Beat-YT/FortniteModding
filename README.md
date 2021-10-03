@@ -112,3 +112,5 @@ Search for it here and place it on the map
 - For 7.10/7.40 i recommend this sig
 > https://cdn.discordapp.com/attachments/894281085393977408/894298941607280640/pakchunk2521-WindowsClient.sig
 - For the other builds just copy and rename the smallest one thats in the Paks folder and rename it so the name of it is equal to the name of the custom pak you have just made.
+
+## 12. Now launch your game using the era launcher, then in the lobby open the console and type "open /Game/Maps/{YourMapName}?game=/game/athena/athena_gamemode.athena_gamemode_c"
