@@ -69,7 +69,7 @@
 
 - Then just follow what i did on the gif
 
-![image](https://user-images.githubusercontent.com/72986221/135766935-20949473-6cdb-417a-917a-9a215ea80b5a.png)
+![image](https://cdn.discordapp.com/attachments/894281085393977408/894294585872875540/ezgif-2-d1035d703103.gif)
 
 - After that make a new c++ class thats a child of PlayerStart and call it FortPlayerStartWarmup
 - ![image](https://user-images.githubusercontent.com/72986221/135767066-750487ba-51be-4f92-92c5-d5ce7df2b5a3.png)
