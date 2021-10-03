@@ -75,16 +75,40 @@ TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager
 ![image](https://cdn.discordapp.com/attachments/894281085393977408/894294585872875540/ezgif-2-d1035d703103.gif)
 
 - After that make a new c++ class thats a child of PlayerStart and call it FortPlayerStartWarmup
-- ![image](https://user-images.githubusercontent.com/72986221/135767066-750487ba-51be-4f92-92c5-d5ce7df2b5a3.png)
+
+![image](https://user-images.githubusercontent.com/72986221/135767066-750487ba-51be-4f92-92c5-d5ce7df2b5a3.png)
 
 ![image](https://user-images.githubusercontent.com/72986221/135767105-b597d8ac-4a91-4442-82e5-9e5b217632f5.png)
+
 Search for it here and place it on the map 
 
 ## 9. You are done! Now go to the File tab and press the Cook content for windows button.
+
 ![image](https://user-images.githubusercontent.com/72986221/135767386-70b085e4-c42f-469f-8ea1-8acb7242851f.png)
 
+
 ## 10. Go to the folder with your project
+
 ![image](https://user-images.githubusercontent.com/72986221/135767509-283110b9-da11-4ab7-9b71-4c3a6fd7c781.png)
+
 - Go to the saved->cooked->windowsnoeditor->fortnitegame->content folder
 - Copy the Maps folder from here.
 > Download u4pak https://cdn.discordapp.com/attachments/894281085393977408/894296329856102431/u4pak_SFV.7z
+- Unpack it and create a folder inside of it called FortniteGame, then another one inside of FortniteGame called Content, and here paste your Maps folder.
+
+![image](https://user-images.githubusercontent.com/72986221/135767761-45142c84-8517-4eed-a692-ce826d213d05.png)
+
+- Then just drag the FortniteGame folder on the bat.
+
+![image](https://user-images.githubusercontent.com/72986221/135767774-800e5657-50e7-43bd-a01e-985493f3b290.png)
+
+- Congrats, you made a pak file. Rename it to whatever you want (make sure it starts with "pakchunk" and ends with -WindowsClient")
+
+## 11. Put the pak file inside of the Paks folder.
+- Copy the pak file and put it inside of the Paks folder of the fortnite version you are modding
+
+![image](https://user-images.githubusercontent.com/72986221/135767841-f90697f8-db11-41dd-96c4-ae4290090afd.png)
+
+- For 7.10/7.40 i recommend this sig
+> https://cdn.discordapp.com/attachments/894281085393977408/894298941607280640/pakchunk2521-WindowsClient.sig
+- For the other builds just copy and rename the smallest one thats in the Paks folder and rename it so the name of it is equal to the name of the custom pak you have just made.
