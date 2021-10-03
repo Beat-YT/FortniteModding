@@ -17,3 +17,10 @@
 - You need either Visual Studio 2017 or 2019, depends on the UE4 build that you are using!
 
 ![Hi](https://cdn.discordapp.com/attachments/894281085393977408/894281159985471498/ezgif-3-c9251f59b54b.gif "")
+
+- If you have this issue, press Yes
+![Hi](https://media.discordapp.net/attachments/874274681316864028/894284266890989628/unknown.png?width=795&height=478 "")
+- It will open the output log window, you possibly dont have Windows SDK v8.1 installed! If thats the case then install it and.
+![Hi](https://media.discordapp.net/attachments/874274681316864028/894284641392021514/unknown.png "")
+
+
