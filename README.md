@@ -71,4 +71,8 @@
 
 ![image](https://user-images.githubusercontent.com/72986221/135766935-20949473-6cdb-417a-917a-9a215ea80b5a.png)
 
+- After that make a new c++ class thats a child of PlayerStart and call it FortPlayerStartWarmup
+- ![image](https://user-images.githubusercontent.com/72986221/135767066-750487ba-51be-4f92-92c5-d5ce7df2b5a3.png)
 
+![image](https://user-images.githubusercontent.com/72986221/135767105-b597d8ac-4a91-4442-82e5-9e5b217632f5.png)
+Search for it here and place it on the map 
