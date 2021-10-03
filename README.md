@@ -46,8 +46,11 @@
 
 ## 8. Then compile the project again and open your map
 - In case you dont have the World Settings menu on the right side of UE4, open the Window tab
+
 ![image](https://user-images.githubusercontent.com/72986221/135766739-74756250-3d2e-405b-b322-c2019c42454a.png)
+
 - And press on World Settings
+
 ![image](https://user-images.githubusercontent.com/72986221/135766748-82763c43-d449-4b79-ba78-988c0a95a692.png)
 ![image](https://user-images.githubusercontent.com/72986221/135766774-9f235bee-d1ad-4461-aace-de6a403bfa0a.png)
 
