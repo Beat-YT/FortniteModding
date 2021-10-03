@@ -76,3 +76,7 @@
 
 ![image](https://user-images.githubusercontent.com/72986221/135767105-b597d8ac-4a91-4442-82e5-9e5b217632f5.png)
 Search for it here and place it on the map 
+
+## 9. You are done! Now go to the File tab and press the Cook content for windows button.
+![image](https://user-images.githubusercontent.com/72986221/135767386-70b085e4-c42f-469f-8ea1-8acb7242851f.png)
+
