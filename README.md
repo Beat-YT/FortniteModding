@@ -24,6 +24,9 @@
 ![Hi](https://media.discordapp.net/attachments/874274681316864028/894284641392021514/unknown.png "")
 
 ## 5. After creating the c++ classes, in visual studio go to FortWorldSettings.h, add an include for FortTimeOfDayManager, and paste the rest under "GENERATED_BODY()"
+
+ ![Hi]( https://media.discordapp.net/attachments/874274681316864028/894286009628520558/ezgif-3-ebc55a794921.gif "")
+
 **#include "FortTimeOfDayManager.h**
  
 **public:**
