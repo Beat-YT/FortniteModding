@@ -12,3 +12,8 @@
 
 ## 3. After you've done that, make a folder and call it "Maps", then create a level inside of it and choose a name for it.
 ![Hi](https://cdn.discordapp.com/attachments/874274681316864028/894277073173086258/ezgif-3-918f36ef43eb.gif "")
+
+## 4. Then create 2 c++ classes, one that's an Actor, call it "FortTimeOfDayManager", and second one thats a child of WorldSettings, call it "FortWorldSettings".
+- You need either Visual Studio 2017 or 2019, depends on the UE4 build that you are using!
+
+![Hi](https://cdn.discordapp.com/attachments/894281085393977408/894281159985471498/ezgif-3-c9251f59b54b.gif "")
