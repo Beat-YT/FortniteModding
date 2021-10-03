@@ -27,11 +27,13 @@
 
  ![Hi]( https://media.discordapp.net/attachments/874274681316864028/894286009628520558/ezgif-3-ebc55a794921.gif "")
 
-**#include "FortTimeOfDayManager.h**
+```#include "FortTimeOfDayManager.h
  
-**public:**
+public:
 
- ![Hi]( https://media.discordapp.net/attachments/894281085393977408/894287035383283712/unknown.png "")
+UPROPERTY(EditAnywhere, BlueprintReadWrite)
+TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager```
+```
  - You need to rewrite this part because markdown is skunked.
 
 - Then get out of vs and press the compile button.
