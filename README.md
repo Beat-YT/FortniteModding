@@ -32,7 +32,7 @@
 public:
 
 UPROPERTY(EditAnywhere, BlueprintReadWrite)
-TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager```
+TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager
 ```
  - You need to rewrite this part because markdown is skunked.
 
