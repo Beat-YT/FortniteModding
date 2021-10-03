@@ -93,7 +93,7 @@ Search for it here and place it on the map
 
 - Go to the saved->cooked->windowsnoeditor->fortnitegame->content folder
 - Copy the Maps folder from here.
-> Download u4pak https://cdn.discordapp.com/attachments/894281085393977408/894296329856102431/u4pak_SFV.7z
+> Download u4pak https://cdn.discordapp.com/attachments/894281085393977408/894324308950798406/u4pak.zip
 - Unpack it and create a folder inside of it called FortniteGame, then another one inside of FortniteGame called Content, and here paste your Maps folder.
 
 ![image](https://user-images.githubusercontent.com/72986221/135767761-45142c84-8517-4eed-a692-ce826d213d05.png)
@@ -178,3 +178,8 @@ Using them you can make a cutscene or your own "event".
 
 - Now watch some youtube tutorials about how level sequences work, if you want to trigger some events on the player then use the Event Track 
 https://docs.unrealengine.com/4.26/en-US/AnimatingObjects/Sequencer/Workflow/EventTrackOverview/
+
+## Item spawner
+
+- 1. Make a new actor
+- ![image](https://user-images.githubusercontent.com/72986221/135770878-4f0bdf9b-4ff3-4f5c-bc12-fbc3d6555b2b.png)
