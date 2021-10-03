@@ -33,3 +33,5 @@
 
  ![Hi]( https://media.discordapp.net/attachments/894281085393977408/894287035383283712/unknown.png "")
  - You need to rewrite this part because markdown is skunked.
+
+- Then get out of vs and press the compile button.
