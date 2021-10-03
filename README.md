@@ -35,3 +35,29 @@
  - You need to rewrite this part because markdown is skunked.
 
 - Then get out of vs and press the compile button.
+
+## 6. After it compiled everything successfully, re-open your project
+
+## 7. Then go to the edit tab and select Project Settings.
+- From here search for World Settings Class
+![Hi](https://cdn.discordapp.com/attachments/894281085393977408/894289294242508810/unknown.png "")
+- Change it to Fort World Settings
+- ![Hi](https://media.discordapp.net/attachments/894281085393977408/894289424668561448/unknown.png?width=1103&height=304 "")
+
+## 8. Then compile the project again and open your map
+- In case you dont have the World Settings menu on the right side of UE4, open the Window tab
+![image](https://user-images.githubusercontent.com/72986221/135766739-74756250-3d2e-405b-b322-c2019c42454a.png)
+- And press on World Settings
+![image](https://user-images.githubusercontent.com/72986221/135766748-82763c43-d449-4b79-ba78-988c0a95a692.png)
+![image](https://user-images.githubusercontent.com/72986221/135766774-9f235bee-d1ad-4461-aace-de6a403bfa0a.png)
+- Here you will find the Time Of Day Manager variable you have just made, now go back to the Content folder
+![image](https://user-images.githubusercontent.com/72986221/135766796-b0f64964-a97b-4907-b445-b2a3594bea48.png)
+- Make a folder called TimeOfDay
+![image](https://user-images.githubusercontent.com/72986221/135766806-0c8bc393-0dd4-48f9-95b2-bd71f3baebc7.png)
+- And inside of it another one called TODM
+![image](https://user-images.githubusercontent.com/72986221/135766811-10005f7f-65a1-43c0-8d88-77dde746182c.png)
+- And another one inside of it called BR
+![image](https://user-images.githubusercontent.com/72986221/135766818-fc6bb3a5-7e62-48e9-98e5-8dfba08ecf4b.png)
+
+
+
