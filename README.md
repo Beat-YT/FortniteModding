@@ -67,5 +67,8 @@
 
 ![image](https://user-images.githubusercontent.com/72986221/135766818-fc6bb3a5-7e62-48e9-98e5-8dfba08ecf4b.png)
 
+- Then just follow what i did on the gif
+
+![image](https://user-images.githubusercontent.com/72986221/135766935-20949473-6cdb-417a-917a-9a215ea80b5a.png)
 
 
