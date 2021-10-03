@@ -132,7 +132,7 @@ Search for it here and place it on the map
 ![image](https://user-images.githubusercontent.com/72986221/135770579-d7198098-b40b-414c-b5d2-cdb20182763c.png)
 
 
-> Cube material.
+# Cube material.
 
 - Rune material function
  ![image](https://user-images.githubusercontent.com/72986221/135770622-249084ac-50a3-4327-bd47-86365854737c.png)
@@ -154,6 +154,13 @@ Search for it here and place it on the map
 
 - The material it self.
 ![image](https://user-images.githubusercontent.com/72986221/135770719-83f3f723-3721-4d7c-a8fb-6c12ef2addda.png)
+
+> Material instance values
+![image](https://user-images.githubusercontent.com/72986221/135770749-0ca51243-b091-41e5-95c9-e5d937a4c752.png)
+
+
+**Effect:**
+![image](https://user-images.githubusercontent.com/72986221/135770738-a9812536-f32f-4cf6-ae68-edb6c8468571.png)
 
 
 
