@@ -29,4 +29,4 @@
 **public:**
 
 **UPROPERTY(EditAnywhere, BlueprintReadWrite)**
-**TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager;**
+**"TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager;"**
