@@ -114,3 +114,5 @@ Search for it here and place it on the map
 - For the other builds just copy and rename the smallest one thats in the Paks folder and rename it so the name of it is equal to the name of the custom pak you have just made.
 
 ## 12. Now launch your game using the era launcher, then in the lobby open the console and type "open /Game/Maps/{YourMapName}?game=/game/athena/athena_gamemode.athena_gamemode_c"
+
+** NOTE: You will be probably loading into the map for like 2-4 minutes, thats normal and danii is working on a fix already!**
