@@ -24,9 +24,9 @@
 ![Hi](https://media.discordapp.net/attachments/874274681316864028/894284641392021514/unknown.png "")
 
 ## 5. After creating the c++ classes, in visual studio go to FortWorldSettings.h, add an include for FortTimeOfDayManager, and paste the rest under "GENERATED_BODY()"
-> #include "FortTimeOfDayManager.h"
-> 
-> public:
->
->	UPROPERTY(EditAnywhere, BlueprintReadWrite)
->		TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager;
+**#include "FortTimeOfDayManager.h"**
+ 
+**public:**
+
+**UPROPERTY(EditAnywhere, BlueprintReadWrite)**
+**TSubclassOf<AFortTimeOfDayManager> TimeOfDayManager;**
