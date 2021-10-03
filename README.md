@@ -27,8 +27,9 @@
 
  ![Hi]( https://media.discordapp.net/attachments/874274681316864028/894286009628520558/ezgif-3-ebc55a794921.gif "")
 
-```#include "FortTimeOfDayManager.h
- 
+```#include "FortTimeOfDayManager.h```
+
+``` 
 public:
 
 UPROPERTY(EditAnywhere, BlueprintReadWrite)
