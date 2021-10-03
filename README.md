@@ -83,3 +83,8 @@ Search for it here and place it on the map
 ## 9. You are done! Now go to the File tab and press the Cook content for windows button.
 ![image](https://user-images.githubusercontent.com/72986221/135767386-70b085e4-c42f-469f-8ea1-8acb7242851f.png)
 
+## 10. Go to the folder with your project
+![image](https://user-images.githubusercontent.com/72986221/135767509-283110b9-da11-4ab7-9b71-4c3a6fd7c781.png)
+- Go to the saved->cooked->windowsnoeditor->fortnitegame->content folder
+- Copy the Maps folder from here.
+> Download u4pak https://cdn.discordapp.com/attachments/894281085393977408/894296329856102431/u4pak_SFV.7z
