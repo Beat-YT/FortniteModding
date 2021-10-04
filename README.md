@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Before trying out the examples below. Please follow [The Basics](Basic.md).
+Before trying out the examples below. Please follow [The Basics](Basics.md).
 
 ## Content
 - [Basics](Basics.md)
