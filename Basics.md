@@ -2,7 +2,7 @@
 
 ## 1. Download the UE4 build that the Fortnite version you want to mod uses. 
 
-- (For Season 4 i recommend using 4.19 as custom maps work on it, and for 7.10/7.30, 4.21.)
+- (For Season 4 i recommend using 4.19 as custom maps work on it, and for 7.10, 4.21.)
 
 > How to check what UE4 build the Fortnite version i want to mod uses?
 
@@ -114,7 +114,7 @@ Search for it here and place it on the map
 
 ![Paks Folder](Images/PaksFolder.png)
 
-> For 7.10/7.30 i recommend using this [pakchunk2521-WindowsClient.sig](Other/pakchunk2521-WindowsClient.sig)
+> For 7.10 i recommend using this [pakchunk2521-WindowsClient.sig](Other/pakchunk2521-WindowsClient.sig)
 
 - For the other builds just copy and rename the smallest one thats in the Paks folder and rename it so the name of it is equal to the name of the custom pak you have just made.
 
