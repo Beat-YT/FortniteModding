@@ -8,7 +8,7 @@ Before trying out the examples below. Please follow [The Basics](Basics.md).
 - [Basics](Basics.md)
 - [Examples](Examples)
   - [Box Trigger](Examples/BoxTrigger.md)
-  - [Cube Material](Examples/CubeMaterial.md)
+  - [Kevin the Cube Material](Examples/CubeMaterial.md)
   - [Minecraft Block Material](Examples/MinecraftBlockMaterial.md)
   - [Minecraft World Generation](Examples/MinecraftWorldGeneration)
   - [Level Sequences](Examples/LevelSequences.md)
