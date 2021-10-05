@@ -3,9 +3,6 @@
 Enumerations:
 
 - Put them inside of FortniteGame.h, under the include.
-
-[image](https://user-images.githubusercontent.com/72986221/136032472-7cd9e8bb-2dc6-4f82-b94d-eccafca45563.png)
-
 - Whenever you want to use the enums in any c++ class, you just include "FortniteGame.h".
 
 ```
