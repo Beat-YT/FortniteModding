@@ -1,5 +1,7 @@
 # Quick tutorial on how to mod older versions of Fortnite.
 
+7.10 is the best for modding in my opinion, as a lot of stuff works on it.
+
 ## 1. Download the UE4 build that the Fortnite version you want to mod uses. 
 
 - (For Season 4 i recommend using 4.19 as custom maps work on it, and for 7.10, 4.21.)
