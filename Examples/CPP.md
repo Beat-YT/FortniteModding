@@ -1,110 +1,60 @@
-## Example c++ classes.
+## Example c++ stuff.
 
-FortInventory
+Enumerations:
+
+- Put them inside of FortniteGame.h, under the include.
+
+[image](https://user-images.githubusercontent.com/72986221/136032472-7cd9e8bb-2dc6-4f82-b94d-eccafca45563.png)
+
+- Whenever you want to use the enums in any c++ class, you just include "FortniteGame.h".
+
 ```
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "FortPickup.h"
-#include "GameFramework/Actor.h"
-#include "FortInventory.generated.h"
-
-USTRUCT(Blueprintable)
-struct FFortItemList : public FFastArraySerializer
+UENUM(Blueprintable)
+// Enum FortniteGame.EFortCustomBodyType
+enum class EFortCustomBodyType : uint8
 {
-	GENERATED_BODY()
-
-		UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	TArray<struct FFortItemEntry>                      ReplicatedEntries;                                        // 0x00B0(0x0010) (ZeroConstructor, SaveGame)
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	TArray<class UFortWorldItem*>                      ItemInstances;                                            // 0x0110(0x0010) (ZeroConstructor)
+	Small = 0,
+	Medium = 1,
+	MediumAndSmall = 2,
+	Large = 3,
+	LargeAndSmall = 4,
+	LargeAndMedium = 5,
+	All = 6,
+	Deprecated = 7
 };
 
-UCLASS()
-class FORTNITEGAME_API AFortInventory : public AActor
+UENUM(Blueprintable)
+// Enum FortniteGame.EFortCustomGender
+enum class EFortCustomGender : uint8
 {
-
-	UFUNCTION(BlueprintCallable)
-	void HandleInventoryLocalUpdate();
-
-	GENERATED_BODY()
-	
-public:	
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	struct FFortItemList                               Inventory;
-
-	// Sets default values for this actor's properties
-	AFortInventory();
-
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
-	
-	
+	Invalid = 0,
+	Male = 1,
+	Female = 2,
+	Both = 3
 };
-
-```
-
-FortItemDefinition
-```
-// Fill out your copyright notice in the Description page of Project Settings.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "FortPickup.h"
-#include "Engine/DataAsset.h"
-#include "FortItemDefinition.generated.h"
 
 UENUM(BlueprintType)
-// Enum FortniteGame.EFortRarity
-enum class EFortRarity : uint8 {
-	Handmade,
-	Ordinary,
-	Sturdy,
-	Quality,
-	Fine,
-	Elegant,
-	Masterwork,
-	Epic,
-	Badass,
-	Legendary,
-	NumRarityValues,
-	EFortRarity_MAX,
-
-};
-/**
- * 
- */
-UCLASS()
-class FORTNITEGAME_API UFortItemDefinition : public UPrimaryDataAsset
+// Enum FortniteGame.EBuildingAnim
+enum class EBuildingAnim : uint8
 {
-	UFUNCTION(BlueprintCallable)
-		class UFortItem* CreateTemporaryItemInstanceBP(int Count, int Level);
-
-	GENERATED_BODY()
-
-public:
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	FText DisplayName;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	FText Description;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	UTexture2D* SmallPreviewImage;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	TSoftObjectPtr<class UTexture2D> LargePreviewImage;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	EFortRarity Rarity;
-	
+	EBA_None = 0,
+	EBA_Building = 1,
+	EBA_Breaking = 2,
+	EBA_Destruction = 3,
+	EBA_Placement = 4,
+	EBA_DynamicLOD = 5,
+	EBA_DynamicShrink = 6,
+	EBA_MAX = 7
+};
+UENUM(BlueprintType)
+// Enum FortniteGame.EFortResourceType
+enum class EFortResourceType : uint8
+{
+	Wood = 0,
+	Stone = 1,
+	Metal = 2,
+	Permanite = 3,
+	None = 4,
+	EFortResourceType_MAX = 5
 };
 ```
